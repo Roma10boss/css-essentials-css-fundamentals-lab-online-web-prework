@@ -21,6 +21,13 @@ body {
  
   #featured-property p{
    margin: 0;
-   width: 800px
-   text-align: cen
+   width: 800px;
+   text-align: center;
+ }
+ #details div{
+   display: block;
+   float:left;
+   text-align: center;
+   width: 25;
+   background-color: red;
  }
